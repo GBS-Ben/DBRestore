@@ -1,0 +1,10 @@
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\bin\Debug\Sql07Restore.dacpac
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\bin\Debug\Sql07Restore.dll
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\bin\Debug\Sql07Restore.pdb
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\obj\Debug\Sql07Restore.sqlproj.AssemblyReference.cache
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\obj\Debug\Model.xml
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\obj\Debug\refactor.xml
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\obj\Debug\postdeploy.sql
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\obj\Debug\predeploy.sql
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\obj\Debug\Sql07Restore.dll
+C:\Users\benjamin\Documents\GitHub\DBRestore\Sql07Restore\Sql07Restore\obj\Debug\Sql07Restore.pdb
